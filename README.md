@@ -1,11 +1,3 @@
-## State File Descriptions and Content
-
-### 1. Root `README.md`
-
-**Purpose:** The main instruction manual for the whole learning system.
-
-**Content:**
-```markdown
 # KAI Guided Project: A Structured Learning System
 
 Welcome to the KAI Guided Project! This repository is a unique, interactive learning environment designed for use with an AI-powered IDE like Cursor.
@@ -22,4 +14,4 @@ The system uses an AI tutor named KAI to teach you computer science fundamentals
 Happy learning!
 
 ---
-*P.S. Looking for a more freeform experience where you build your exact passion project from day one? Check out the [KAI Forge (Passion Project) Version](link-to-your-other-repo).*
+*P.S. Looking for a more freeform experience where you build your exact passion project from day one? Check out the [KAI Forge (Passion Project) Version](https://github.com/charlesdpjohnston/kai-forge).*
